@@ -4,9 +4,11 @@ Hi everyone 👋,
 
 I am a full-stack web developer from Malaga, Spain. Tocotó! 💃
 
-🌱 I create experiences through the websites I build, using various dark arts (JavaScript, React, Node, SQL, and brewing caffeinic potions...).
+🌱 I create experiences through the websites I build, using various dark arts 
+(JavaScript, React, Node, SQL, and brewing caffeinic potions...).
 
-⚡ I love art, laughing, writing, solving puzzles, and making games. And of course, I enjoy spending time outdoors and living life to the fullest.
+⚡ I love art, laughing, writing, solving puzzles, and making games. 
+And of course, I enjoy spending time outdoors and living life to the fullest.
 
 📧 How to reach me: https://www.linkedin.com/in/juanmabarro/
 <!---
